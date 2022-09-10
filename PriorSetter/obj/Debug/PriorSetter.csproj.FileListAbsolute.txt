@@ -1,0 +1,7 @@
+C:\Users\Akatsuki\source\repos\PriorSetter\bin\Debug\PriorSetter.exe.config
+C:\Users\Akatsuki\source\repos\PriorSetter\bin\Debug\PriorSetter.exe
+C:\Users\Akatsuki\source\repos\PriorSetter\bin\Debug\PriorSetter.pdb
+C:\Users\Akatsuki\source\repos\PriorSetter\obj\Debug\PriorSetter.csprojAssemblyReference.cache
+C:\Users\Akatsuki\source\repos\PriorSetter\obj\Debug\PriorSetter.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\source\repos\PriorSetter\obj\Debug\PriorSetter.exe
+C:\Users\Akatsuki\source\repos\PriorSetter\obj\Debug\PriorSetter.pdb
